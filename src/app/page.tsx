@@ -33,7 +33,7 @@ export default function Home() {
           Raviolli de ricota com ervas finas
         </li>
         <li className="w-full py-2 text-center">
-          Risotto de tomate seco e rúcula
+          Risotto de bacon com alho poró
         </li>
       </ul>
       <Image src={Divisor} alt="Divisor" className="h-20 object-contain" />
