@@ -17,8 +17,8 @@ const great = Great_Vibes({
 });
 
 export const metadata = {
-  title: "Natal - Cardápio",
-  description: "Kit para conversão de bicicletas convencionais em e-bikes",
+  title: "Cardápio de Natal",
+  description: "Um cardápio especial para a família Demathé",
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
