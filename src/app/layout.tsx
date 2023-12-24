@@ -31,12 +31,12 @@ export default function RootLayout({ children }: { children: ReactNode }) {
           <Image
             src={Canto}
             alt="Canto"
-            className="absolute -left-4 -top-6 w-1/2"
+            className="absolute -left-4 -top-6 w-1/2 max-w-[20rem]"
           />
           <Image
             src={Canto}
             alt="Canto"
-            className="absolute -right-4 -top-6 w-1/2 scale-x-[-1]"
+            className="absolute -right-4 -top-6 w-1/2 max-w-[20rem] scale-x-[-1]"
           />
           {children}
         </main>

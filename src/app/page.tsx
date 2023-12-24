@@ -47,11 +47,15 @@ export default function Home() {
         <li className="w-full py-2 text-center">Folhado de Nutella</li>
       </ul>
       <div className="-mx-16 flex">
-        <Image src={Canto} alt="Canto" className=" w-1/2 scale-y-[-1]" />
         <Image
           src={Canto}
           alt="Canto"
-          className=" w-1/2 scale-x-[-1] scale-y-[-1]"
+          className=" w-1/2 max-w-[20rem] scale-y-[-1]"
+        />
+        <Image
+          src={Canto}
+          alt="Canto"
+          className=" w-1/2 max-w-[20rem] scale-x-[-1] scale-y-[-1]"
         />
       </div>
     </div>
