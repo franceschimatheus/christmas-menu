@@ -17,7 +17,7 @@ const great = Great_Vibes({
 });
 
 export const metadata = {
-  title: "E-CON BIKE",
+  title: "Natal - Cardápio",
   description: "Kit para conversão de bicicletas convencionais em e-bikes",
 };
 
