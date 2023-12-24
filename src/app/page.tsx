@@ -42,7 +42,7 @@ export default function Home() {
       </h2>
       <ul className="flex flex-col divide-y divide-amber-400/50 ">
         <li className="w-full py-2 text-center">
-          Panacotta de com calda de frutas vermelhas
+          Panacotta com calda de frutas vermelhas
         </li>
         <li className="w-full py-2 text-center">Folhado de Nutella</li>
       </ul>
